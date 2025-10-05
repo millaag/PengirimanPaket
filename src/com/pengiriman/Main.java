@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author L0324020 - Milla Agustin
  */
 public class Main {
     public static void main(String[] args) {
