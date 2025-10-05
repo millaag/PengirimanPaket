@@ -6,7 +6,7 @@ package com.pengiriman;
 
 /**
  *
- * @author user
+ * @author L0324020 - Milla Agustin
  */
 public class Paket {
     private String kodePaket;
