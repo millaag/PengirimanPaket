@@ -11,6 +11,7 @@ Aplikasi ini mensimulasikan proses pengiriman paket, seperti:
 - Mengubah status pengiriman paket
 
 ## Struktur Project
+```
 PengirimanPaket/
 ├─ src/
 │ └─ main/
@@ -22,7 +23,7 @@ PengirimanPaket/
 │ ├─ Kurir.java
 │ └─ Pengiriman.java
 └─ README.md
-
+```
 
 
 ## Diagram Class (Sederhana)
