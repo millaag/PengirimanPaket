@@ -26,7 +26,7 @@ PengirimanPaket/
 
 
 ## Diagram Class (Sederhana)
-'''
+```
 +-----------------+
 | Paket |
 +-----------------+
@@ -78,7 +78,7 @@ PengirimanPaket/
 | (input pengguna) |
 | (looping & switch)|
 +------------------+
-'''
+```
 
 
 
