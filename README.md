@@ -131,7 +131,7 @@ Video penjelasan mengenai:
 - Penjelasan setiap class
 - Demo program
 
-**Link YouTube:** [Tambahkan link video YouTube di sini setelah diupload]
+**Link YouTube:** [https://youtu.be/6qqlNPmlHfc]
 
 ## Pembuat
 - Nama: Milla Agustin  
